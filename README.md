@@ -1,4 +1,4 @@
-## Opa eu sou a Agos Dalcin Rufino Software Engineer student, amante de programação e tecnologia!
+## Opa eu sou o Agos Dalcin Rufino estudante de engenharia de software, amante de programação e tecnologia!
 
 
  🐱‍👤 Agos091
