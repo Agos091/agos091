@@ -34,7 +34,7 @@
 
 ### 📊 Stats
 
-![Agos091 GitHub stats](https://github-readme-stats.vercel.app/api?username=agos091&show_icons=true&theme=gruvbox)
+!![Agos GitHub stats](https://github-readme-stats.vercel.app/api?username=agos091&show_icons=true&theme=radical)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=agos091&theme=gruvbox&border_radius=4.5) -->
 
